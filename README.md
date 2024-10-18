@@ -20,7 +20,7 @@ history:
    using a physics engine!)
 
 This family tree is entirely data-driven and easy to update. Data is pulled from
-a [google spreadsheet].
+a [https://docs.google.com/spreadsheets/d/e/2PACX-1vQqINcM2P46xUXHdEIlEr1EngC4Q7bN7tV_AjHEMXze8OQUkvbR8urX3jOkGrYgiXBEJL1fkzdMMBjw/pubhtml].
 
 ## How does it work?
 
