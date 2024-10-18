@@ -19,8 +19,7 @@ history:
  * Play around with graph nodes (they bounce around and collide with each other
    using a physics engine!)
 
-This family tree is entirely data-driven and easy to update. Data is pulled from
-a [google spreadsheet].
+This family tree is entirely data-driven and easy to update. Data is pulled from [https://docs.google.com/spreadsheets/d/e/2PACX-1vQqINcM2P46xUXHdEIlEr1EngC4Q7bN7tV_AjHEMXze8OQUkvbR8urX3jOkGrYgiXBEJL1fkzdMMBjw/pubhtml].
 
 ## How does it work?
 
