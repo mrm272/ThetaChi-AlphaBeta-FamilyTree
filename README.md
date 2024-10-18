@@ -41,7 +41,7 @@ All original source files are licensed under the MIT license. All dependencies
 are licensed under their respective open source licenses. The Theta Chi flag
 image was downloaded from [this
 site](https://upload.wikimedia.org/wikipedia/en/d/df/OX_Flag.png). The data
-displayed on this web page is populated by this [google spreadsheet] and is
+displayed on this web page is populated by this [https://docs.google.com/spreadsheets/d/e/2PACX-1vQqINcM2P46xUXHdEIlEr1EngC4Q7bN7tV_AjHEMXze8OQUkvbR8urX3jOkGrYgiXBEJL1fkzdMMBjw/pubhtml] and is
 property of Theta Chi Fraternity Beta Alpha chapter and its initiates.
 
 <!--
